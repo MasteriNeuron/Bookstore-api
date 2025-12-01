@@ -1,3 +1,4 @@
+```
 online_bookstore/
 ├── app/
 │   ├── __init__.py
@@ -16,7 +17,7 @@ online_bookstore/
 │   └── conftest.py
 ├── requirements.txt
 └── README.md
-
+```
 # Online Bookstore API
 
 A complete REST API for managing a bookstore built with FastAPI.
