@@ -64,8 +64,8 @@ online_bookstore/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/online_bookstore.git
-cd online_bookstore
+[git clone https://github.com/your-username/online_bookstore.git](https://github.com/MasteriNeuron/Bookstore-api.git)
+cd Bookstore-api
 ```
 
 ### 2️⃣ Create Virtual Environment (Recommended)
